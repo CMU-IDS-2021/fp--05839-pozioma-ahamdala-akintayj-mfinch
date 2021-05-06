@@ -2,16 +2,51 @@
 
 **Project URL**: TODO
 
-Short (~250 words) abstract of the concrete data science problem and how the solutions addresses the problem.
+This narrative work is an inquiry into the nature of income household and child income distributions in US tertiary institutions. Using five income classes, we explore the mean yearly household income distribution of different college tiers in the US. An exploration of the median yearly income showed a similar pattern as the mean yearly household income. We also explored income distribution by college through a drop-down menu that allowed the selection of each college. For each college, we plotted the probability of a parent falling within a particular income class with a barchart. Using the height of the bars, we showed the proportion of parents that actually fall within the income class. This was done for the children’s income too. Eventually, using the income classes, we showed income mobility of each of the income classes. Using a scatter plot, we looked at the direction of income mobility for colleges within each college tier. Our results show that people from lower income households are more likely to attend lower tier colleges and those from higher income households are more likely to attend higher tier colleges. We conclude with a recommendation on how we can improve students, colleges and governments can work together to improve upward income mobility for students from lower income households. 
 
 ## Introduction
 
+Income mobility explores the upward or downward movement of people from one income class to another. Intergenerational income mobility explores income mobility across various generations of a family. Education is generally considered to be a driver of upward income mobility across generations. Even more importantly, the type of education children within a household receive can affect intergenerational income mobility. The high cost of attending high tier schools coupled with limited financial aid resources make it inaccessible for most students from lower income families. Top employers, however, are more likely to recruit students from these schools. More opportunities and exposure are also available to these students. Exploring the extent of this issue and presenting the results in an interactive visualization, in our opinion, is thus a worthwhile endeavor. This forms the basis of the data science problem for our project. We are setting out to investigate how household income affects the type of college attended and subsequently future income. We intend to follow the narrative track in solving this problem and produce an interactive article with insights gleaned from datasets on income distribution and college level characteristics from the Integrated Postsecondary Education Data System (IPEDS) and College Scoreboard. The goal of this data analysis project is to obtain in-depth understanding on how the household income in the US affects the types of colleges people attend. It would also shed light on questions relating to how different categories of colleges affect earning power and ultimately, how they affect income mobility.
+
 ## Related Work
 
+[1, 2] have characterized social mobility resulting from colleges in the United States. Chetty et al’s results have been reported by the New York Times [3] and APM Report [4] articles where the reader is provided interactive infographic using the data presented in [1]. The reader of the New York Times article provides a college into the infographic which returns related information comparing the entered college to peer institutions while also providing a scatter plot of parent incomes to graduates’ income at age 34. The article by APM Report provides a mouse hover chart using data source form the Brooking Institute to show discrepancies in family income between income percentiles. In addition, the APM Report also provides an infographic of students admitted at various universities as a function of parents’ income over time.  
+
 ## Methods
+
+We set about approaching this project empirically, collecting data from existing research. We identify 5 income classes based on the income quintile: Upper Class, Upper Middle Class, Lower Middle Class, Working Class and Middle Class.
+
+We started with exploring mean yearly household income of students in the various university tiers. This was then further developed to show the proportion of parents that belonged to each income class. This was done with two linked charts. The first chart (a vertical histogram) showed the mean yearly income of parents within each university tier. A linked chart (a horizontal histogram) shows the proportion of parents within the selected tier that belong to each income class.
+
+We took the mobility rate as a key parameter in this endeavor. We plotted the mobility rates of different universities in an interactive format where each school is the main view (schools are selected from a dropdown menu) at a given time with four different visualizations to this effect: 
+
+A stacked bar chart that shows the forecasted probability of a parent from the school falling into a certain income class. Each bar further the proportion of parents within each income class that are actually within each income class
+A stacked bar chart that shows the forecasted probability of a child from the school falling into a certain income class. Each bar further the proportion of children within each income class that are actually within each income class
+Heatmap that shows intergenerational income mobility of children as a function of their household income
+People chart to show the income distribution of parents from 1980 to date (dates can be selected vis a slider)
+
+We also categorised the students into three groups:
+Those that remain in the same income group as their parents - Staylites
+Those that move into a higher income group than their parents - Upward Movers
+Those that fall below their parents’ income group - Downward  Movers
+
+To visualize these classes, we explore the data based on college tiers. We created a scatter plot and explored income mobility for schools within each income class. The plot allowed us to visualize college tier clusters (and subsequently mobility).
+To further understand this grouping as well as more interactive inference, we decided to make a scatter plot  of parent income against children income  for the different universities while categorizing the schools based on their appeal and social perception e.g Ivy leagues, Community colleges etc. These categories then serve as clusters on the scatter plot that can be interacted with separately. Choosing any one of the clusters shows the scaled positions of the universities that belong to the group along with their average mobility rates. Below that chart is then a spectral horizontal chart that shows the different groups of students per university per income group. 
 
 ## Results
 
 ## Discussion
 
+This work hopefully is able to help policymakers and the general public understand how disparities in earning potential is fostered by the kinds of universities that people attend. The universities that people get to attend do not necessarily depend on their academic potential alone, it is also largely influenced by their household income as can be seen in the results above. We hope that stakeholders, including universities will be informed by our work and thus, seek ways to ensure that income mobility propensities are common across tertiary institutions. It is also our expectation that the general public will be better informed about how income mobility is defined by educational institutions through this work. This information can, thus, help them make the best decisions for their financial future. As our work not only analyses how household income and the universities attended affects future income, but also gives information about how other factors contribute to future income may not be contained therein.
+
 ## Future Work
+
+## References
+
+[1] R. Chetty, J. Friedman, E. Saez, N. Turner, and D. Yagan, "Mobility report cards: the role of colleges in intergenerational mobility," National Bureau of Economic Research, vol. w23618, JUL 2017.
+[2] R. Chetty, J. N. Friedman, E. Saez, N. Turner, and D. Yagan, "Income segregation and intergenerational mobility across colleges in the United States," The Quarterly Journal of Economics , vol. 135, no. 3, pp. 1567-1633, FEB 2020.
+[3] G. Aisch, L. Buchanan, A. Cox, and K. Quealy, "Some colleges have more students from the top 1 percent than the bottom 60. Find yours.," The New York Times, Jan 2017.
+[4] S. Aslanian and E. Hanford, "Changing class: colleges helping Americans move up?," APM Reports, AUG 2018.
+
+
+
