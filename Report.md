@@ -50,6 +50,3 @@ This work hopefully is able to help policymakers and the general public understa
 [3] G. Aisch, L. Buchanan, A. Cox, and K. Quealy, "Some colleges have more students from the top 1 percent than the bottom 60. Find yours.," The New York Times, Jan 2017.
 
 [4] S. Aslanian and E. Hanford, "Changing class: colleges helping Americans move up?," APM Reports, AUG 2018.
-
-
-
