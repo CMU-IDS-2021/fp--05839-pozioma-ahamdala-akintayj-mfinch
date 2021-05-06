@@ -44,8 +44,11 @@ This work hopefully is able to help policymakers and the general public understa
 ## References
 
 [1] R. Chetty, J. Friedman, E. Saez, N. Turner, and D. Yagan, "Mobility report cards: the role of colleges in intergenerational mobility," National Bureau of Economic Research, vol. w23618, JUL 2017.
+
 [2] R. Chetty, J. N. Friedman, E. Saez, N. Turner, and D. Yagan, "Income segregation and intergenerational mobility across colleges in the United States," The Quarterly Journal of Economics , vol. 135, no. 3, pp. 1567-1633, FEB 2020.
+
 [3] G. Aisch, L. Buchanan, A. Cox, and K. Quealy, "Some colleges have more students from the top 1 percent than the bottom 60. Find yours.," The New York Times, Jan 2017.
+
 [4] S. Aslanian and E. Hanford, "Changing class: colleges helping Americans move up?," APM Reports, AUG 2018.
 
 
