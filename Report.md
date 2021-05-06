@@ -53,42 +53,48 @@ Figure 3: Household Income Class Distribution for all schools in the US
 We created a dropdown menu that allowed a deeper view of each college. Using Carnegie Mellon University as an example, we got a chart that showed the forecasted probability that a parent would belong to a particular income class as shown in the chart below:
 
 <img src= "https://github.com/CMU-IDS-2021/fp--05839-pozioma-ahamdala-akintayj-mfinch/blob/main/images/image12.png">
-Figure 4: Parents’ Income Probability Distribution for Carnegie Mellon University
+Figure 4: Parents’ Income Probability Distribution for Carnegie Mellon University.
+
 
 Each bar shows the actual proportion of parents that fall within each income class given the forecast. 
 The same is done for the children’s incomes
 
 <img src= "https://github.com/CMU-IDS-2021/fp--05839-pozioma-ahamdala-akintayj-mfinch/blob/main/images/image1.png">
-Figure 5: Children’s Income Probability Distribution for Carnegie Mellon University
+Figure 5: Children’s Income Probability Distribution for Carnegie Mellon University.
+
 
 We then proceed to draw a heat map that shows the intergenerational mobility for each income class. We represented the children’s income class on the y-axis and the parents’ income class on the x-axes. We found that students from upper income households tend to maintain their income class. There was some mobility from lower income classes into the higher income strata too. 
 
 <img src= "https://github.com/CMU-IDS-2021/fp--05839-pozioma-ahamdala-akintayj-mfinch/blob/main/images/image8.png">
-Figure 6: Intergenerational Income Mobility Map for CMU
+Figure 6: Intergenerational Income Mobility Map for CMU.
+
 
 We also created a people’s chart that shows the household income class distribution for each year.
 
 <img src= "https://github.com/CMU-IDS-2021/fp--05839-pozioma-ahamdala-akintayj-mfinch/blob/main/images/image3.png">
-Figure 7: Parents’ Income Probability Distribution for Carnegie Mellon University in 1982
+Figure 7: Parents’ Income Probability Distribution for Carnegie Mellon University in 1982.
+
 
 The same charts for a 2-year community college (Pioneer Pacific College) are shown below: 
 
 <img src= "https://github.com/CMU-IDS-2021/fp--05839-pozioma-ahamdala-akintayj-mfinch/blob/main/images/image11.png">
-Figure 8:  Parents’ Income Probability Distribution for Pioneer Pacific College
+Figure 8:  Parents’ Income Probability Distribution for Pioneer Pacific College.
 
 <img src= "https://github.com/CMU-IDS-2021/fp--05839-pozioma-ahamdala-akintayj-mfinch/blob/main/images/image4.png">
-Figure 9: Children’s Income Probability Distribution for Pioneer Pacific College
+Figure 9: Children’s Income Probability Distribution for Pioneer Pacific College.
 
 <img src= "https://github.com/CMU-IDS-2021/fp--05839-pozioma-ahamdala-akintayj-mfinch/blob/main/images/image5.png">
-Figure 10: Intergenerational Income Mobility Map for Pioneer Pacific College
+Figure 10: Intergenerational Income Mobility Map for Pioneer Pacific College.
 
 <img src= "https://github.com/CMU-IDS-2021/fp--05839-pozioma-ahamdala-akintayj-mfinch/blob/main/images/image6.png">
 Figure 11: Parents’ Income Probability Distribution for Pioneer Pacific College in 1982
+
 
 We also generated a scatter plot of universities clustered by their tiers i.e Ivy Leagues etc. This plot is linked to a horizontal stacked chart that shows for each school, the percentage of students that attended that eventually ended up in the same income class as their parents, stayed in the same bracket or did poorly. Very interesting revelations from these charts as different positions of these schools on the plot meant a different behavior in income distribution as well as room for extreme/wide mobility gaps and eventual possibilities.
 
 <img src= "https://github.com/CMU-IDS-2021/fp--05839-pozioma-ahamdala-akintayj-mfinch/blob/main/images/image2.png">
 Figure 12: Income Mobility Direction for Some Elite Schools
+
 
 ## Discussion
 
