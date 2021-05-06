@@ -1,6 +1,6 @@
 # Final Project Report
 
-**Project URL**: TODO
+**Project URL**: https://share.streamlit.io/cmu-ids-2021/fp--05839-pozioma-ahamdala-akintayj-mfinch/main/scs/python/app.py
 
 This narrative work is an inquiry into the nature of income household and child income distributions in US tertiary institutions. Using five income classes, we explore the mean yearly household income distribution of different college tiers in the US. An exploration of the median yearly income showed a similar pattern as the mean yearly household income. We also explored income distribution by college through a drop-down menu that allowed the selection of each college. For each college, we plotted the probability of a parent falling within a particular income class with a barchart. Using the height of the bars, we showed the proportion of parents that actually fall within the income class. This was done for the children’s income too. Eventually, using the income classes, we showed income mobility of each of the income classes. Using a scatter plot, we looked at the direction of income mobility for colleges within each college tier. Our results show that people from lower income households are more likely to attend lower tier colleges and those from higher income households are more likely to attend higher tier colleges. We conclude with a recommendation on how we can improve students, colleges and governments can work together to improve upward income mobility for students from lower income households. 
 
