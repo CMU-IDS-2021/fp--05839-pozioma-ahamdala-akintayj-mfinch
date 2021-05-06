@@ -17,7 +17,7 @@ We worked together on different phases, from: the proposal to the design, and th
 
 ### Proposal - This has been done and submitted
 
-- [ ] The URL at the top of this readme needs to point to your application online. It should also list the names of the team members.
+- [ ] The URL: https://share.streamlit.io/cmu-ids-2021/fp--05839-pozioma-ahamdala-akintayj-mfinch/main/scs/python/app.py
 - [ ] A completed [proposal](Proposal.md). The contact should submit it as a PDF on Canvas.
 
 ### Design review - This has been done and submitted
