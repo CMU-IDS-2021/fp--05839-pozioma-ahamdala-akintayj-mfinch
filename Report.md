@@ -39,7 +39,7 @@ We have generated an interactive article that shows the relationships between in
 
 We achieved a visualization of mean yearly income of households in each income tier. We found that higher tier colleges had more students from high income households while lower tier colleges tend to have more students from lower income households. 
 
-https://github.com/CMU-IDS-2021/fp--05839-pozioma-ahamdala-akintayj-mfinch/blob/main/images/image1.png
+<img src= "https://github.com/CMU-IDS-2021/fp--05839-pozioma-ahamdala-akintayj-mfinch/blob/main/images/image1.png">
 Figure 1
 
 [Include a pic of say income distribution in a community college]
