@@ -79,7 +79,7 @@ Figure 8:  Parents’ Income Probability Distribution for Pioneer Pacific Colleg
 <img src= "https://github.com/CMU-IDS-2021/fp--05839-pozioma-ahamdala-akintayj-mfinch/blob/main/images/image4.png">
 Figure 9: Children’s Income Probability Distribution for Pioneer Pacific College
 
-<img src= "https://github.com/CMU-IDS-2021/fp--05839-pozioma-ahamdala-akintayj-mfinch/blob/main/images/image8.png">
+<img src= "https://github.com/CMU-IDS-2021/fp--05839-pozioma-ahamdala-akintayj-mfinch/blob/main/images/image5.png">
 Figure 10: Intergenerational Income Mobility Map for Pioneer Pacific College
 
 <img src= "https://github.com/CMU-IDS-2021/fp--05839-pozioma-ahamdala-akintayj-mfinch/blob/main/images/image6.png">
