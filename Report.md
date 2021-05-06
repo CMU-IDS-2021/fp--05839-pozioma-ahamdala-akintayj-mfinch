@@ -35,7 +35,7 @@ To further understand this grouping as well as more interactive inference, we de
 
 ## Results
 
-We have generated an interactive article that shows the relationships between incomes of parents and their wards after graduation from United States universities which can be assessed [here: ]
+We have generated an interactive article that shows the relationships between incomes of parents and their wards after graduation from United States universities which can be assessed [here: ]https://share.streamlit.io/cmu-ids-2021/fp--05839-pozioma-ahamdala-akintayj-mfinch/main/scs/python/app.py
 
 We achieved a visualization of mean yearly income of households in each income tier. We found that higher tier colleges had more students from high income households while lower tier colleges tend to have more students from lower income households. 
 
