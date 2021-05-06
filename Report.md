@@ -35,11 +35,54 @@ To further understand this grouping as well as more interactive inference, we de
 
 ## Results
 
+We have generated an interactive article that shows the relationships between incomes of parents and their wards after graduation from United States universities which can be assessed [here: ]
+
+We achieved a visualization of mean yearly income of households in each income tier. We found that higher tier colleges had more students from high income households while lower tier colleges tend to have more students from lower income households. 
+
+[Include a pic of say Ivy League]
+
+[Include a pic of say income distribution in a community college]
+
+We also found that students from higher income households were more likely to even get an education.
+
+[Put the lower histogram that we have when no bar is selected in the upper histogram]
+
+We created a dropdown menu that allowed a deeper view of each college. Using Carnegie Mellon University as an example, we got a chart that showed the forecasted probability that a parent would belong to a particular income class as shown in the chart below:
+
+[Insert the parent chart for CMU ]
+
+Each bar shows the actual proportion of parents that fall within each income class given the forecast. 
+The same is done for the children’s incomes
+
+[insert children chart for CMU]
+
+We then proceed to draw a heat map that shows the intergenerational mobility for each income class. We represented the children’s income class on the y-axis and the parents’ income class on the x-axes. We found that students from upper income households tend to maintain their income class. There was some mobility from lower income classes into the higher income strata too. 
+
+[insert heat map for CMU here]
+
+The same charts for a 2-year community college are shown below:
+[parents for the 2-year community college]
+[children for the 2-year community college]
+[heat map for the 2-year community college]
+
+We also generated a scatter plot of universities clustered by their tiers i.e Ivy Leagues etc. This plot is linked to a horizontal stacked chart that shows for each school, the percentage of students that attended that eventually ended up in the same income class as their parents, stayed in the same bracket or did poorly. Very interesting revelations from these charts as different positions of these schools on the plot meant a different behavior in income distribution as well as room for extreme/wide mobility gaps and eventual possibilities.
+
 ## Discussion
 
-This work hopefully is able to help policymakers and the general public understand how disparities in earning potential is fostered by the kinds of universities that people attend. The universities that people get to attend do not necessarily depend on their academic potential alone, it is also largely influenced by their household income as can be seen in the results above. We hope that stakeholders, including universities will be informed by our work and thus, seek ways to ensure that income mobility propensities are common across tertiary institutions. It is also our expectation that the general public will be better informed about how income mobility is defined by educational institutions through this work. This information can, thus, help them make the best decisions for their financial future. As our work not only analyses how household income and the universities attended affects future income, but also gives information about how other factors contribute to future income may not be contained therein.
+This work hopefully is able to help policymakers and the general public understand how disparities in earning potential is fostered by the kinds of universities that people attend. The universities that people get to attend do not necessarily depend on their academic potential alone, it is also largely influenced by their household income as can be seen in the results above. We hope that stakeholders, including universities will be informed by our work and thus, seek ways to ensure that income mobility propensities are common across tertiary institutions. It is also our expectation that the general public will be better informed about how income mobility is defined by educational institutions through this work. This information can, thus, help them make the best decisions for their financial future. As our work not only analyses how household income and the universities attended affects future income, but also gives information about how other factors contribute to future income may not be contained therein. We make the following suggestions to allow for greater income mobility in lower income groups: 
+
+[1] Colleges can consider extending student recruitment and information sessions to students from low income and disadvantaged communities.
+
+[2] Top tier institutions can also consider need-based scholarships to well deserving students from low income and disadvantaged communities.
+
+[3] The US government can also provide better comprehensive packages that enable students to attend the top-tier schools without exhausting student loan facilities to worry about when they are done.
+
+[4] Employers also should consider equal opportunities for students from any school rather than just targeted recruiting.
+Students from lower income households should also stay active and look out for the occasional opportunities for scholarships and fundings to attend the top tier institutions in the country.
 
 ## Future Work
+
+It would also be enlightening to see how college debts in addition to household income affects intergenerational income mobility. It would also be interesting to see how target schools (for top employers) widen the income mobility spectra when compared with non-target schools.  
 
 ## References
 
