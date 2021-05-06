@@ -3,9 +3,9 @@
 * **Online URL**: https://share.streamlit.io/cmu-ids-2021/fp--05839-pozioma-ahamdala-akintayj-mfinch/main/scs/python/app.py
 
 * **Team members**:
-  * Contact person: akintayj@andrew.cmu.edu
+  * Contact person: pozioma@andrew.cmu.edu
   * ahamdala@andrew.cmu.edu
-  * pozioma@andrew.cmu.edu
+  * akintayj@andrew.cmu.edu
   * mfinch@andrew.cmu.edu
   
 * **Track**: Narrative Visualization
