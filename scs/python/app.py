@@ -45,7 +45,7 @@ brush = alt.selection_single()
 par_college_tier = alt.Chart(df_reduced_par_cum).mark_bar().encode(
     alt.X('tier_name:N', title=' ' , sort='-y', axis=alt.Axis(labels=False)),
     alt.Y('par_mean:Q', title='Mean Yearly Income of Parents in $'), tooltip=['College Tier', 'Mean Parent Income in $'],  color=alt.Color(
-      'College Tier:N',
+      brush, 'College Tier:N',
       legend=None)
     ).interactive().properties(height=400, width=600, title="Mean Yearly Income of Parents for Each College Tier").add_selection(
     brush
